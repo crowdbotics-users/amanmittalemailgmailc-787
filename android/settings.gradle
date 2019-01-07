@@ -1,0 +1,3 @@
+rootProject.name = 'amanmittalemailgmailc_787'
+
+include ':app'
